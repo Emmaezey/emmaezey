@@ -1,7 +1,71 @@
-## Hi there 👋
+<h1>Hi, I'm Emmanuel! <br/><a href="https://github.com/emmaezey">Cloud & AI Enthusiast</a>, <a href="https://www.linkedin.com/in/eze-emmanuel-eze-phd-180929125/">Cloud Infrastructure & Cybersecurity Professional</a>
+
+  # Introduction
+
+Principal Cloud Architect | Enterprise AI Architect | PhD Researcher
+
+I design secure, scalable cloud and AI solutions that transform businesses. With 11+ years in Azure, cybersecurity, automation, and enterprise architecture, I combine industry expertise with PhD-level research in AI trust and autonomous systems. My work spans Azure, AI/LLMs, DevSecOps, and innovative platforms that bridge cutting-edge research with real-world impact.
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b>Governance, Risk & Compliance (Confluence, Risk Register, Security Policies & RACI)</b>
+  - [GRC-NIST-ISO-GDPR-PCI DSS FRAMEWORK](https://github.com/fixitgearware/NIST-Cybersecurity-Framework-2.0-)
+- <b>NIST Cybersecurity Framework & ISO (GDPR, PCI, HIPAA)</b>
+  - [How NIST is practically implemented across various industries](https://github.com/ovh/debian-cis)
+- <b>Wireshark Scans & Reporting</b>
+  - [Wireshark LAB](https://github.com/Ryan-Sapone/Nmap-and-Wireshark-Lab)
+  - [API Inbound/Outbound Troubleshooting using Wireshark ](https://github.com/Kunalgarg2100/Wireshark-Lab/tree/master/Part2)
+- <b>Splunk, Sentinel, Kali Linux, OWASP, Nikto (SIEM Tools and Vulnerability Assessment)</b>
+  - [SIEM Splunk - Splunk Search Queries](https://github.com/splunk/splunk-webframework)
+  - [Recoonaissance](https://github.com/OWASP/Nettacker)
+- <b>Pen Test</b>
+  - [Nessus, NMAP, Metaspolit, ZAP, Bumpsuit (Penetration Testing and Vulnerabilities Assessment Demo)](https://github.com/emmancyberguard/nessus)
+- <b>MobSF</b>
+  - [Mobile Devices Vulnerabilities Assessment Demo (Penetration Testing and Vulnerabilities Assessment Demo)](https://github.com/emmancyberguard/MobSF)
+
+<h2>MobSF </h2>
+
+- [OWASP](https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools)
+
+## Tools
+Cyber World
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+## Certifications
+Path to Growth
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
+
+## Projects
+- Detection Lab
+- SOC Automation Project
 
 <!--
-**Emmaezey/emmaezey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
