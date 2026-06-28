@@ -30,7 +30,7 @@ I design secure, scalable cloud and AI solutions that transform businesses. With
 - [OWASP](https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools)
 
 ## Tools
-Cyber World
+AI World | Cyber World | Cloud Infrastructure World
 
 ### Network
 <div>
@@ -65,6 +65,9 @@ Path to Growth
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- Transition from On-premises to full Cloud Environment
+- Transfer of Source of Authority (SOA) from On-premise AD to Cloud
+- SOC Implementation and On-Boarding
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
