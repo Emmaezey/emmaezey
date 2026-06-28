@@ -22,6 +22,8 @@ I design secure, scalable cloud and AI solutions that transform businesses. With
   - [Nessus, NMAP, Metaspolit, ZAP, Bumpsuit (Penetration Testing and Vulnerabilities Assessment Demo)](https://github.com/emmancyberguard/nessus)
 - <b>MobSF</b>
   - [Mobile Devices Vulnerabilities Assessment Demo (Penetration Testing and Vulnerabilities Assessment Demo)](https://github.com/emmancyberguard/MobSF)
+- <b>Designing and Implementing Microsoft DevOps Solutions</b>
+  - [AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://github.com/Emmaezey/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions)
 
 <h2>MobSF </h2>
 
