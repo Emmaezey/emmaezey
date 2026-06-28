@@ -6,10 +6,10 @@ Principal Cloud Architect | Enterprise AI Architect | PhD Researcher
 
 I design secure, scalable cloud and AI solutions that transform businesses. With 11+ years in Azure, cybersecurity, automation, and enterprise architecture, I combine industry expertise with PhD-level research in AI trust and autonomous systems. My work spans Azure, AI/LLMs, DevSecOps, and innovative platforms that bridge cutting-edge research with real-world impact.
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Cloud Infrastructure | AI | Cyber Security Projects:</h2>
 
-- <b>Governance, Risk & Compliance (Confluence, Risk Register, Security Policies & RACI)</b>
-  - [GRC-NIST-ISO-GDPR-PCI DSS FRAMEWORK](https://github.com/fixitgearware/NIST-Cybersecurity-Framework-2.0-)
+- <b>🌟 500+ AI Agent Projects / UseCases </b>
+  - [AI Agent Projects](https://github.com/Emmaezey/500-AI-Agents-Projects)
 - <b>NIST Cybersecurity Framework & ISO (GDPR, PCI, HIPAA)</b>
   - [How NIST is practically implemented across various industries](https://github.com/ovh/debian-cis)
 - <b>Wireshark Scans & Reporting</b>
