@@ -18,6 +18,9 @@ I design secure, scalable cloud and AI solutions that transform businesses. With
 - <b>Wireshark Scans & Reporting</b>
   - [Wireshark LAB](https://github.com/Ryan-Sapone/Nmap-and-Wireshark-Lab)
   - [API Inbound/Outbound Troubleshooting using Wireshark ](https://github.com/Kunalgarg2100/Wireshark-Lab/tree/master/Part2)
+  - <b>RAG</b>
+  - [knowledge-graph-RAG-practical-main](https://github.com/Emmaezey/knowledge-graph-RAG-practical-main)
+  - [AI-Mock-Interview](https://github.com/Emmaezey/AI-Mock-Interview_-main/tree/main/AI-Mock-Interview_-main)
 - <b>Splunk, Sentinel, Kali Linux, OWASP, Nikto (SIEM Tools and Vulnerability Assessment)</b>
   - [SIEM Splunk - Splunk Search Queries](https://github.com/splunk/splunk-webframework)
   - [Recoonaissance](https://github.com/OWASP/Nettacker)
