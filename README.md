@@ -10,8 +10,11 @@ I design secure, scalable cloud and AI solutions that transform businesses. With
 
 - <b>🌟 500+ AI Agent Projects / UseCases </b>
   - [AI Agent Projects](https://github.com/Emmaezey/500-AI-Agents-Projects)
-- <b>NIST Cybersecurity Framework & ISO (GDPR, PCI, HIPAA)</b>
-  - [How NIST is practically implemented across various industries](https://github.com/ovh/debian-cis)
+- <b>Real-Time-Event-Detection-for-Video-Streams</b>
+  - [Real-Time-Event-Detection-for-Video-Streams](https://github.com/Emmaezey/Real-Time-Event-Detection-for-Video-Streams)
+- <b>Architecting-Azure-Solutions-for-PaaS</b>
+  - [Architecting-Azure-Solutions-for-PaaS](https://github.com/Emmaezey/Architecting-Azure-Solutions-for-PaaS)
+  - [Infrastructure as a Service Solutions with Azure](https://github.com/Emmaezey/Infrastructure-as-a-Service-Solutions-with-Azure)
 - <b>Wireshark Scans & Reporting</b>
   - [Wireshark LAB](https://github.com/Ryan-Sapone/Nmap-and-Wireshark-Lab)
   - [API Inbound/Outbound Troubleshooting using Wireshark ](https://github.com/Kunalgarg2100/Wireshark-Lab/tree/master/Part2)
